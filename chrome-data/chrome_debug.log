@@ -1,0 +1,5 @@
+[14260:6644:0115/153249.051:ERROR:device_event_log_impl.cc(211)] [15:32:49.057] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[14260:6644:0115/153249.058:ERROR:device_event_log_impl.cc(211)] [15:32:49.059] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[14260:6644:0115/153249.071:ERROR:device_event_log_impl.cc(211)] [15:32:49.071] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[14260:6644:0115/153304.970:INFO:CONSOLE(0)] "[DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o", source: https://warrior.uwaterloo.ca/Program/GetProgramDetails?courseId=cc2a16d7-f148-461e-831d-7d4659726dd1&semesterId=b0d461c3-71ea-458e-b150-134678037221 (0)
+[14260:6644:0115/153312.608:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
