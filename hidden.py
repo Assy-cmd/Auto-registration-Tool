@@ -1,3 +1,6 @@
+# Test script to try different driver obfuscation tactics
+
+
 import time 
 import os
 import getpass
